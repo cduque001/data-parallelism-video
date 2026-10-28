@@ -1,9 +1,7 @@
 # What is data parallelism?
 
-[Download the video (MP4)](https://github.com/cduque001/data-parallelism-video/releases/download/data-parallelism-v1/data-parallelism.mp4)
+[Download the corrected video (MP4)](https://github.com/cduque001/data-parallelism-video/releases/download/data-parallelism-v2/data-parallelism-sharding-voice.mp4)
 
-A short visual explanation of data parallelism: different training examples, complete model copies, and shared gradients.
+Uses the same ElevenLabs narration voice as “What Is Sharding,” with synchronized animation, captions and mascot appearances.
 
-1080 × 1920 portrait video with narration, captions, music and an animated mascot.
-
-The Legend of Zelda characters appear in illustrative generated training examples. All trademarks belong to their respective owners. Not affiliated with Nintendo.
+1080 × 1920 vertical video, approximately 67 seconds.
